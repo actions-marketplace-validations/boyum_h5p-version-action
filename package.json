@@ -32,7 +32,7 @@
     "@types/node": "^20.17.32",
     "@vercel/ncc": "^0.44.0",
     "h5p-types": "^5.6.0",
-    "js-yaml": "^4.2.0",
+    "js-yaml": "^5.2.1",
     "typescript": "^5.9.3"
   }
 }
